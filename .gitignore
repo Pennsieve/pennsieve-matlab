@@ -1,0 +1,10 @@
+*.m~
+.DS_Store
+.env
+build/
+java/blackfynn/
+setup/blackfynn.prj
+setup/version.txt
+setup/blackfynio.jar
+setup/blackfynn/
+

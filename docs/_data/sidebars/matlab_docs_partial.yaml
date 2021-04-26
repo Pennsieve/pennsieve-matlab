@@ -1,0 +1,21 @@
+entries:
+- title: Sidebar
+  levels: one
+  product: Developer docs
+  folders:
+  - title: Getting started
+    output: web
+    folderitems:
+    - title: Installation
+      url: /index.html
+      type: homepage
+      output: web
+    - title: Tutorial 1 - The basics
+      url: /tutorial1.html
+      output: web
+    - title: Tutorial 2 - Metadata management
+      url: /tutorial2.html
+      output: web
+    - title: Tutorial 3 - Uploading files
+      url: /tutorial3.html
+      output: web
